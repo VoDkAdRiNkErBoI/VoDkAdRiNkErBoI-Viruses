@@ -1,3 +1,7 @@
+#Message From Admin Virus
+#This Is Not Made To Be A Malicious Virus So I Do Not Accept Responsibility For Anything Illegal Done With This Code
+#Created By VoDkAdRiNkErBoI
+
 import time
 import pygame
 import os
