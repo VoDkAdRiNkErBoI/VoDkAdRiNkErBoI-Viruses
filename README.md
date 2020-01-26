@@ -1,2 +1,2 @@
-# Message-From-Admin-Python-Virus
-A Simple Python Virus That Creates A Message From Admin You Cannot Close.
+Just A Bunch Of Viruses I Made,
+If This Code Is Used For Malicious Purposes I Do Not Accept Any Respnsibiltyt For Damage Caused
