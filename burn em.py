@@ -1,6 +1,7 @@
 #Message From Admin Virus
 #This Is Not Made To Be A Malicious Virus So I Do Not Accept Responsibility For Anything Illegal Done With This Code
 #All Illegal Action Is Entirely Your  Fault And Not Mine (Read Above)
+#You Can Change The Message From Admin And Ello Governor Parts To Suit Yourself
 #Created By VoDkAdRiNkErBoI
 
 import time
